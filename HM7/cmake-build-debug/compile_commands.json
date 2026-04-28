@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/bylochka/CLionProjects/Lesson 9. Indicators Functions/HM7/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles/HM7iidk.dir/main.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/HM7iidk.dir/main.cpp.o -c \"/home/bylochka/CLionProjects/Lesson 9. Indicators Functions/HM7/main.cpp\"",
+  "file": "/home/bylochka/CLionProjects/Lesson 9. Indicators Functions/HM7/main.cpp",
+  "output": "/home/bylochka/CLionProjects/Lesson 9. Indicators Functions/HM7/cmake-build-debug/CMakeFiles/HM7iidk.dir/main.cpp.o"
+}
+]
