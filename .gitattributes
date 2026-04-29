@@ -1,2 +1,4 @@
+*.i linguist-detectable=false
+*.i linguist-documentation=false
 *.i linguist-vendored
 *.swg linguist-vendored
