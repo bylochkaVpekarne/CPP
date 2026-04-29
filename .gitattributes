@@ -13,3 +13,6 @@ Makefile linguist-vendored
 
 # Про всяк випадок залишаємо ігнорування того, що раніше вважалося SWIG
 *.i linguist-vendored
+
+*.make linguist-vendored
+Makefile linguist-vendored
