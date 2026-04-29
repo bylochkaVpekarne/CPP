@@ -2,3 +2,14 @@
 *.i linguist-documentation=false
 *.i linguist-vendored
 *.swg linguist-vendored
+# Ігноруємо чистий C (якщо твої файли .c насправді є C++)
+*.c linguist-language=C++
+
+# Ігноруємо системи збірки (CMake та Makefile)
+*.cmake linguist-vendored
+CMakeLists.txt linguist-vendored
+Makefile linguist-vendored
+*.make linguist-vendored
+
+# Про всяк випадок залишаємо ігнорування того, що раніше вважалося SWIG
+*.i linguist-vendored
